@@ -1,0 +1,9 @@
+A minimalistic rss reader, written in perl/tk.
+
+1. Copy example-config.yaml to config.yaml and edit.
+2. Copy example-feeds.yaml to feeds.yaml and edit.
+3. Use dbsetup.pl to create sqlite database file.
+4. Use fetch.pl to download feeds. Put it to crontab or while true loop
+   to fetch regularly.
+5. Use rss.pl to read the feeds. Navigate by mouse or arrow+tab keys.
+   Double-click or enter to open article in external browser.

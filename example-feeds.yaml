@@ -1,0 +1,14 @@
+---
+slashdot: http://rss.slashdot.org/Slashdot/slashdot
+abc:
+abc.clanky: http://www.abclinuxu.cz/auto/abc.rss
+abc.diskuse: http://www.abclinuxu.cz/auto/diskuse.rss
+abc.hardware: http://www.abclinuxu.cz/auto/hardware.rss
+abc.software: http://www.abclinuxu.cz/auto/software.rss
+abc.ovladace: http://www.abclinuxu.cz/auto/ovladace.rss
+abc.zpravicky: http://www.abclinuxu.cz/auto/zpravicky.rss
+abc.slovnik: http://www.abclinuxu.cz/auto/slovnik.rss
+abc.blog: http://www.abclinuxu.cz/auto/blog.rss
+abc.faq: http://www.abclinuxu.cz/auto/faq.rss
+abc.ankety: http://www.abclinuxu.cz/auto/ankety.rss
+abc.bazar: http://www.abclinuxu.cz/auto/bazar.rss

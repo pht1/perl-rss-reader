@@ -1,0 +1,3 @@
+---
+database: rss.sqlite
+browser: /usr/bin/firefox -remote openURL(__URL__)
